@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzuleaye.github.io/lxT/sitemap_index.txt
+Sitemap: https://uzuleaye.github.io/qQD/sitemap_index.txt
+Sitemap: https://uzuleaye.github.io/xGE/sitemap_index.txt
+Sitemap: https://uzuleaye.github.io/yYN/sitemap_index.txt
